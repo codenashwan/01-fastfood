@@ -1,0 +1,22 @@
+*:focus {
+    outline: 0 !important;
+    outline-offset: 0  !important;
+    background-image: none  !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none  !important;
+  }
+@font-face {
+    font-family: 'speda';
+    src: url('Speda.ttf'); 
+  }
+body , span{
+    font-family:'Lexend Deca',"speda" !important;
+    src: url(Speda.ttf) !important;
+}
+.radius-10{
+  border-radius: 10px !important;
+}
+.radius-20{
+    border-radius: 20px !important;
+}
+
